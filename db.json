@@ -1,0 +1,92 @@
+{
+    "users": [
+      {
+        "name": "Omkar",
+        "email": "omkar1@gmail.com",
+        "phone": "4646464",
+        "address": "Pune",
+        "id": 1,
+        "status":"inactive"
+      },
+      {
+        "name": "Sachin",
+        "email": "sachin@gmail.com",
+        "phone": "89834673",
+        "address": "Mumbai",
+        "id": 4,
+        "status":"active"
+      },
+      {
+        "name": "Golu",
+        "email": "Goluh@kekh.com",
+        "phone": "9877987",
+        "address": "Delhi",
+        "id": 2,
+        "status":"active"
+      },
+      {
+        "name": "Virat",
+        "email": "viratt1@gmail.com",
+        "phone": "98989877",
+        "address": "Mohali",
+        "id": 3,
+        "status":"inactive"
+      },
+      {
+        "name": "rohit",
+        "email": "rohits@gmail.com",
+        "phone": "78787877",
+        "address": "Kolkatta",
+        "id": 11,
+        "status":"inactive"
+      },
+      {
+        "name": "Test4554",
+        "email": "testt1@gmail.com",
+        "phone": "87878787",
+        "address": "Jkjk",
+        "id": 10,
+       "status":"active"
+      },
+      {
+        "name": "James bond",
+        "email": "James@gmail.com",
+        "phone": "877676777",
+        "address": "India",
+        "id": 9,
+        "status":"active"
+      },
+      {
+        "name": "updated",
+        "email": "ihjwih@kekh.com",
+        "phone": "9987987",
+        "address": "jhwhw",
+        "id": 8,
+        "status":"inactive"
+      },
+      {
+        "name": "Dinkar",
+        "email": "dinkar@kok.com",
+        "phone": "75757987",
+        "address": "chandigarh",
+        "id": 5,
+        "status":"active"
+      },
+      {
+        "name": "James",
+        "email": "u8ywufy8@ufehu",
+        "phone": "8324787687",
+        "address": "gwufg",
+        "id": 7,
+        "status":"inactive"
+      },
+      {
+        "name": "john",
+        "email": "john@gmail.com",
+        "phone": "6775757",
+        "address": "India",
+        "id": 6,
+        "status":"active"
+      }
+    ]
+  }
